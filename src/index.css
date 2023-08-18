@@ -1,0 +1,12 @@
+body{
+    background-color: #808080;
+}
+
+#root{
+    display: flex;
+    padding: 2rem;
+   
+    align-items: center;
+}
+
+
